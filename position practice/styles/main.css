@@ -1,0 +1,13 @@
+nav{
+	position:fixed;
+	height:50px;
+	width:100%;
+	background-color:blue;
+	margin:0px;
+}
+p{
+	display:inline-block;
+}
+.pp1{
+	margin-left:10px;
+}
