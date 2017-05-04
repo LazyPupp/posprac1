@@ -1,3 +1,4 @@
+/*navbar*/
 nav{
 	position:fixed;
 	height:50px;
@@ -9,5 +10,14 @@ p{
 	display:inline-block;
 }
 .pp1{
-	margin-left:10px;
+	margin-left:70px;
+}
+.pp2{
+	margin-left:1000px;
+}
+/*body*/
+body{
+	background-image:url("../images/back.jpg");
+	background-repeat:repeat;
+	background-size:300px;
 }
